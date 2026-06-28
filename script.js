@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Apply to key sections
   const animTargets = [
-    '.catalogo-card', '.step', '.depo-card', '.demo-feature',
+    '.catalogo-card', '.portfolio-site-card', '.step', '.depo-card', '.demo-feature',
     '.carousel-wrap', '.sobre-img-wrap', '.sobre-text',
     '.orcamento-text', '.orcamento-form-wrap'
   ];
